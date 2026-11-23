@@ -1,5 +1,6 @@
 # SHYAM-KT-DATA-ANALYSIS-AND-BUSINESS-MODELLING-EXPERIMENT-2
-# DABM-Exp-No.2-Exploratory-Data-Analysis-EDA
+
+# Experiment No.2-Exploratory-Data-Analysis-EDA
 
 ## Aim
 To perform Exploratory Data Analysis (EDA) on the heart disease dataset to understand the data distribution, relationships, and key patterns useful for business insights and model building.
